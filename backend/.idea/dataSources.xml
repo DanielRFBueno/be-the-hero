@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="db" uuid="860c44b8-d0c2-4333-a2a7-448c35d44580">
+      <driver-ref>sqlite.xerial</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
+      <jdbc-url>jdbc:sqlite:C:\Users\danie\Documents\omnistack-11\aulas\backend\src\database\db.sqlite</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="SQLite - db.sqlite" uuid="7ee524e4-cbd6-44bd-a39f-15a69ed2e134">
+      <driver-ref>sqlite.xerial</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
+      <jdbc-url>jdbc:sqlite:$PROJECT_DIR$/src/database/db.sqlite</jdbc-url>
+    </data-source>
+  </component>
+</project>
