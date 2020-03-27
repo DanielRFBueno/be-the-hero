@@ -14,7 +14,7 @@ export default function Logon() {
                 <img src={logoImg}
                      alt="Be The Hero"/>
 
-                <form>
+                <form action="/incidents/new">
                     <h1>Faça seu logon</h1>
 
                     <input placeholder="Sua ID"/>
