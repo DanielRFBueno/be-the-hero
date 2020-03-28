@@ -6,5 +6,12 @@
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" name="@types/react" level="application" />
     <orderEntry type="library" name="@types/react-native" level="application" />
+    <orderEntry type="library" name="@types/react-router-native" level="application" />
+    <orderEntry type="library" name="@types/react-router-navigation" level="application" />
+    <orderEntry type="library" name="@types/react-router-dom" level="application" />
+    <orderEntry type="library" name="@types/express" level="application" />
+    <orderEntry type="library" name="@types/react-native" level="application" />
+    <orderEntry type="library" name="@types/react" level="application" />
+    <orderEntry type="library" name="@types/intl" level="application" />
   </component>
 </module>
